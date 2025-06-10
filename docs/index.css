@@ -950,3 +950,9 @@
                 grid-template-columns: 1fr;
             }
         }
+
+         @media (max-width: 576px) {
+            .video-background{
+                height: 700px;
+            } 
+         }
