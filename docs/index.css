@@ -951,7 +951,7 @@
             }
         }
 
-         @media (max-width: 576px) {
+         @media (max-width: 400px) {
             .video-background{
                 height: 600px;
             } 
